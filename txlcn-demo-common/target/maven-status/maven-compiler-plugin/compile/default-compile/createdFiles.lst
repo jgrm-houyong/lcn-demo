@@ -1,0 +1,10 @@
+org\txlcn\demo\common\db\domain\Demo.class
+org\txlcn\demo\common\spring\FeignConfiguration.class
+org\txlcn\demo\common\db\mapper\BaseDemoMapper.class
+org\txlcn\demo\common\spring\ServiceCFallback.class
+org\txlcn\demo\common\dubbo\Service4DemoService.class
+org\txlcn\demo\common\spring\ServiceBClient.class
+org\txlcn\demo\common\spring\ServiceBFallback.class
+org\txlcn\demo\common\dubbo\DemoServiceB.class
+org\txlcn\demo\common\spring\ServiceCClient.class
+org\txlcn\demo\common\dubbo\DemoServiceC.class

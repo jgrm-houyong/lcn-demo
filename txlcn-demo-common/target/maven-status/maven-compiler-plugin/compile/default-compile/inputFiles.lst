@@ -1,0 +1,10 @@
+D:\git\txlcn-demo\txlcn-demo-common\src\main\java\org\txlcn\demo\common\db\domain\Demo.java
+D:\git\txlcn-demo\txlcn-demo-common\src\main\java\org\txlcn\demo\common\dubbo\Service4DemoService.java
+D:\git\txlcn-demo\txlcn-demo-common\src\main\java\org\txlcn\demo\common\spring\ServiceBClient.java
+D:\git\txlcn-demo\txlcn-demo-common\src\main\java\org\txlcn\demo\common\spring\ServiceCClient.java
+D:\git\txlcn-demo\txlcn-demo-common\src\main\java\org\txlcn\demo\common\dubbo\DemoServiceC.java
+D:\git\txlcn-demo\txlcn-demo-common\src\main\java\org\txlcn\demo\common\db\mapper\BaseDemoMapper.java
+D:\git\txlcn-demo\txlcn-demo-common\src\main\java\org\txlcn\demo\common\spring\FeignConfiguration.java
+D:\git\txlcn-demo\txlcn-demo-common\src\main\java\org\txlcn\demo\common\dubbo\DemoServiceB.java
+D:\git\txlcn-demo\txlcn-demo-common\src\main\java\org\txlcn\demo\common\spring\ServiceCFallback.java
+D:\git\txlcn-demo\txlcn-demo-common\src\main\java\org\txlcn\demo\common\spring\ServiceBFallback.java
